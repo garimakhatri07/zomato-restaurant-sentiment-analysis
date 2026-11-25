@@ -122,8 +122,8 @@ Zomato-Sentiment-Analysis/
 │
 ├── Screenshots/
 ├── 01_Zomato_Data_Analysis.ipynb
-├── app.py
 ├── README.md
+├── app.py
 └── requirements.txt
 ```
 
